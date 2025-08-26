@@ -328,7 +328,7 @@ function App() {
               <img 
                 src={marksmithy_logo} 
                 alt="MarkSmithy Logo" 
-                className="h-12 w-auto"
+                className="h-16 w-auto"
               />
             </div>
 
