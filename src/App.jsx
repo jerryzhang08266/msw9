@@ -16,7 +16,7 @@ import {
   Clock,
   Shield
 } from 'lucide-react'
-import marksmithy_logo from './assets/marksmithy-logo-cropped.png'
+import marksmithy_logo from './assets/marksmithy-logo-tight-crop.png'
 import office_stationery from './assets/office-stationery-final.png'
 import tech_electronics from './assets/tech-electronics-final.png'
 import creative_products from './assets/creative-products-final.png'
