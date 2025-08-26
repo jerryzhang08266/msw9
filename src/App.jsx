@@ -105,6 +105,7 @@ import michael_kors_logo from './assets/brands/michael-kors-logo-unified.png'
 
 import './App.css'
 
+// Cache bust: Force new deployment with updated product images - v2.0
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
